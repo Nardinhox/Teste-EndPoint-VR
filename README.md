@@ -34,7 +34,7 @@ Execute o comando "bundle install" no terminal.
   "features/classes/classe_api.rb": Arquivo contendo os métodos para serem utilizados nas definições dos passos
   "features/step_definitions/api_steps.rb": Arquivo contendo as definições dos passos (steps) em Ruby.
   "features/support/env.rb": Arquivo de configuração do ambiente do Cucumber.
-  "features/TestePetz.feature": Arquivo de definição dos cenários de teste.
+  "features/TesteAPI.feature": Arquivo de definição dos cenários de teste.
 "Gemfile": Arquivo de configuração das dependências do projeto.
 
 **Executando o Teste**
